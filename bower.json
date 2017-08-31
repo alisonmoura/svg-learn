@@ -1,0 +1,20 @@
+{
+  "name": "svg-lear",
+  "authors": [
+    "Alison Moura <alison.oghino@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "reset-css": "^2.2.0"
+  }
+}
